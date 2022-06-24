@@ -1,0 +1,29 @@
+{
+  "name": "3rd-new-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekhar123sajwan/3rd-new-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekhar123sajwan/3rd-new-1/issues"
+  },
+  "homepage": "https://github.com/shekhar123sajwan/3rd-new-1#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "cheerio-eq": "^1.0.1",
+    "express": "^4.18.1",
+    "json-circular-stringify": "^1.0.1",
+    "nodejs-file-downloader": "^4.9.3",
+    "request": "^2.88.2"
+  }
+}
